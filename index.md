@@ -16,7 +16,7 @@ Vibrant and Varied experience of 10+ years with software development in differen
 Have exposure to Java, Javascript and python and have started foraying into the area of Datascience and Machine learning
 
 ## Ecommerce platform as car finance aggregator
-![Alt text](path/to/image.jpg "Optional title text")
+![Alt text](assets/img/car-loan.jpg "Optional title text")
 
 > This is a blockquote following a header.
 >
