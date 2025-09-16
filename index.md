@@ -18,9 +18,7 @@ Have exposure to Java, Javascript and python and have started foraying into the 
 ## Ecommerce platform as car finance aggregator
 ![Alt text](assets/img/car-loan.jpg "Optional title text")
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+This project dealt with bringing different financing and nbfc on a platform for a leading automoile maker to facilitate car financing digitally to the customers who wanted to buy the cars.
 
 ### Header 3
 
